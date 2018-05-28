@@ -1,4 +1,4 @@
-public class c {
+public class SortingModel {
     public static void main(String[] arg) {
         int[] toSort = {4, 12, 3, 56, 5, 13};
         int[] sortedArray = doIntersionSort(toSort);
