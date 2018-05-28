@@ -1,4 +1,4 @@
-public class Sorting_arrays {
+public class SortingArrays {
     public static void main(String[] arg) {
         int[] myArray = {38, 27, 43, 3, 10};
 
