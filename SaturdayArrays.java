@@ -1,6 +1,6 @@
 
 
-public class Saturday_arrays {
+public class SaturdayArrays {
     public static void main(String[] args) {
         int[] numbers = {8, 15, 20, 21, 22, 50, 70};
         int myNumber = 8;
